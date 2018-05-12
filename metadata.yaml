@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43033#La-lucha-por-la-vida--Mala-hierba
 gutenberg_issued: '2013-06-25'
 gutenberg_type: Text
 identifiers:
